@@ -4,7 +4,9 @@
 We can click on the task name to mark it as completed or incomplete task. A close icon is added to delete the particular task from the ToDo list.**
 
 In this JavaScript Project we are using Local Storage  that will store the task list or To Do list in your web browser, So that if you close and restart the browser then also it will display your saved To-Do List
-🧠 Concepts Covered:
+.
+
+### 🧠 Concepts Covered:
 1) DOM manipulation
 2) Event listeners
 3) Basic styling
